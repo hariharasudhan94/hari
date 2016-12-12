@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hari</string>
+    <string name="user_name">Enter The Name</string>
+    <string name="user_age">Enter The Age</string>
+    <string name="user_dob_text">Pick The Dob</string>
+    <string name="user_gender_text">Choose The Gender</string>
+    <string name="add_user_button">Submit</string>
+    <string name="home_add_user_button">Add New User</string>
+    <string-array name="user_gender">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
